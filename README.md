@@ -1,1 +1,1 @@
-﻿# minimalist demo-portfolio
+﻿# keep it simple, sigh..
